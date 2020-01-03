@@ -1,0 +1,11 @@
+C:\Users\hspcadmin\source\repos\TestWs\TestWs\bin\Debug\TestWs.exe.config
+C:\Users\hspcadmin\source\repos\TestWs\TestWs\bin\Debug\TestWs.exe
+C:\Users\hspcadmin\source\repos\TestWs\TestWs\bin\Debug\TestWs.pdb
+C:\Users\hspcadmin\source\repos\TestWs\TestWs\bin\Debug\Fleck.dll
+C:\Users\hspcadmin\source\repos\TestWs\TestWs\obj\Debug\TestWs.csprojAssemblyReference.cache
+C:\Users\hspcadmin\source\repos\TestWs\TestWs\obj\Debug\TestWs.Properties.Resources.resources
+C:\Users\hspcadmin\source\repos\TestWs\TestWs\obj\Debug\TestWs.csproj.GenerateResource.cache
+C:\Users\hspcadmin\source\repos\TestWs\TestWs\obj\Debug\TestWs.csproj.CoreCompileInputs.cache
+C:\Users\hspcadmin\source\repos\TestWs\TestWs\obj\Debug\TestWs.csproj.CopyComplete
+C:\Users\hspcadmin\source\repos\TestWs\TestWs\obj\Debug\TestWs.exe
+C:\Users\hspcadmin\source\repos\TestWs\TestWs\obj\Debug\TestWs.pdb

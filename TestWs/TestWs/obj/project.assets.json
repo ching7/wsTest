@@ -1,0 +1,122 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETFramework,Version=v4.6.1": {
+      "Fleck/1.1.0": {
+        "type": "package",
+        "compile": {
+          "lib/net45/Fleck.dll": {}
+        },
+        "runtime": {
+          "lib/net45/Fleck.dll": {}
+        }
+      }
+    },
+    ".NETFramework,Version=v4.6.1/win": {
+      "Fleck/1.1.0": {
+        "type": "package",
+        "compile": {
+          "lib/net45/Fleck.dll": {}
+        },
+        "runtime": {
+          "lib/net45/Fleck.dll": {}
+        }
+      }
+    },
+    ".NETFramework,Version=v4.6.1/win-x64": {
+      "Fleck/1.1.0": {
+        "type": "package",
+        "compile": {
+          "lib/net45/Fleck.dll": {}
+        },
+        "runtime": {
+          "lib/net45/Fleck.dll": {}
+        }
+      }
+    },
+    ".NETFramework,Version=v4.6.1/win-x86": {
+      "Fleck/1.1.0": {
+        "type": "package",
+        "compile": {
+          "lib/net45/Fleck.dll": {}
+        },
+        "runtime": {
+          "lib/net45/Fleck.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Fleck/1.1.0": {
+      "sha512": "6UYtXNPIv43QgoPOBFb6ycNc5Nr5L/bO9llUqz82eVyrktvroL59hnHJ9zLUxO3TgpcMSMS5/NKpWVbHHwwSdQ==",
+      "type": "package",
+      "path": "fleck/1.1.0",
+      "files": [
+        ".signature.p7s",
+        "fleck.1.1.0.nupkg.sha512",
+        "fleck.nuspec",
+        "lib/net40/Fleck.dll",
+        "lib/net45/Fleck.dll",
+        "lib/netcoreapp2.0/Fleck.dll",
+        "lib/netstandard2.0/Fleck.dll"
+      ]
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETFramework,Version=v4.6.1": [
+      "Fleck >= 1.1.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\hspcadmin\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\hspcadmin\\source\\repos\\TestWs\\TestWs\\TestWs.csproj",
+      "projectName": "TestWs",
+      "projectPath": "C:\\Users\\hspcadmin\\source\\repos\\TestWs\\TestWs\\TestWs.csproj",
+      "packagesPath": "C:\\Users\\hspcadmin\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\hspcadmin\\source\\repos\\TestWs\\TestWs\\obj\\",
+      "projectStyle": "PackageReference",
+      "skipContentFileWrite": true,
+      "configFilePaths": [
+        "C:\\Users\\hspcadmin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net461"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net461": {
+          "projectReferences": {}
+        }
+      }
+    },
+    "frameworks": {
+      "net461": {
+        "dependencies": {
+          "Fleck": {
+            "target": "Package",
+            "version": "[1.1.0, )"
+          }
+        }
+      }
+    },
+    "runtimes": {
+      "win": {
+        "#import": []
+      },
+      "win-x64": {
+        "#import": []
+      },
+      "win-x86": {
+        "#import": []
+      }
+    }
+  }
+}

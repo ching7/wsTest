@@ -1,0 +1,11 @@
+C:\Users\hspcadmin\source\repos\TestWs\TestWs\bin\Release\TestWs.exe.config
+C:\Users\hspcadmin\source\repos\TestWs\TestWs\bin\Release\TestWs.exe
+C:\Users\hspcadmin\source\repos\TestWs\TestWs\bin\Release\TestWs.pdb
+C:\Users\hspcadmin\source\repos\TestWs\TestWs\bin\Release\Fleck.dll
+C:\Users\hspcadmin\source\repos\TestWs\TestWs\obj\Release\TestWs.Form1.resources
+C:\Users\hspcadmin\source\repos\TestWs\TestWs\obj\Release\TestWs.Properties.Resources.resources
+C:\Users\hspcadmin\source\repos\TestWs\TestWs\obj\Release\TestWs.csproj.GenerateResource.cache
+C:\Users\hspcadmin\source\repos\TestWs\TestWs\obj\Release\TestWs.csproj.CoreCompileInputs.cache
+C:\Users\hspcadmin\source\repos\TestWs\TestWs\obj\Release\TestWs.csproj.CopyComplete
+C:\Users\hspcadmin\source\repos\TestWs\TestWs\obj\Release\TestWs.exe
+C:\Users\hspcadmin\source\repos\TestWs\TestWs\obj\Release\TestWs.pdb
